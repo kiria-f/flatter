@@ -1,3 +1,4 @@
 loguru
 numpy
+pydantic
 pynput
